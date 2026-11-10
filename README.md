@@ -13,6 +13,7 @@ helps on the bench belongs here.
 | Folder | Tool | Description |
 |--------|------|-------------|
 | [flopimg](flopimg/) | FLOPIMG | Floppy imaging for DOS: read, write, verify and repair bootable disks |
+| [fragmap](fragmap/) | FRAGMAP | Colour map of a FAT12/16 disk for DOS: shows where files are split (read-only) |
 
 ## How the repository is organized
 
